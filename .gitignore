@@ -1,0 +1,17 @@
+www/compile
+www/config.php
+admin/compile
+admin/config.php
+*config.php
+www/log
+admin/log
+public/uploads
+*.swp
+/nbproject/private/
+nbproject/*
+.buildpath
+.project
+.settings
+/nbproject
+./tmp
+www/404.html.php
