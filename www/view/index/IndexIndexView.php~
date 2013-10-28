@@ -1,0 +1,13 @@
+<?php
+
+class IndexIndexView extends ViewCoreLib
+{
+	//protected $isAjax = true;
+	
+	public function index()
+    {
+         echo d;
+		 throw new Exception('sdf', 00);
+		 DemoData::getInstance()->test();
+    }
+}
