@@ -2,7 +2,7 @@
 
 class Feng {
 
-    private static $class = array();
+    private static $class = array(); 
 
     public static function getInstance() {
         $className = get_called_class();
